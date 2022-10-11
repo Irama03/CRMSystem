@@ -3,7 +3,6 @@ package com.TasksS.utils;
 public class Values {
 
     public static final int PORT_OF_FRONTEND = 3000;
-    public static final String URL_OF_WORKERS = "http://localhost:8086";
 
     public static final String NO_FLOW_WITH_SUCH_ID_EXCEPTION_STR = "No flow with such id: ";
     public static final String NO_TASK_WITH_SUCH_ID_EXCEPTION_STR = "No task with such id: ";
